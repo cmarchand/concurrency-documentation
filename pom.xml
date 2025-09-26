@@ -19,7 +19,7 @@ limitations under the License.
   <groupId>top.marchand.concurrency</groupId>
   <artifactId>documentation</artifactId>
   <version>1.00.00-SNAPSHOT</version>
-  <packaging>maven-plugin</packaging>
+  <packaging>jar</packaging>
 
   <name>Concurrency Documentation</name>
   <description>Annotations to document your classes behavior concerning concurrency</description>
