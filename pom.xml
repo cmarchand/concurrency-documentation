@@ -18,7 +18,7 @@ limitations under the License.
   
   <groupId>top.marchand.concurrency</groupId>
   <artifactId>documentation</artifactId>
-  <version>1.00.01-SNAPSHOT</version>
+  <version>1.00.00-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Concurrency Documentation</name>
