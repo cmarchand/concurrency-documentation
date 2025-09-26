@@ -18,7 +18,7 @@ limitations under the License.
   
   <groupId>top.marchand.concurrency</groupId>
   <artifactId>documentation</artifactId>
-  <version>1.00.00</version>
+  <version>1.00.00-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Concurrency Documentation</name>
@@ -29,7 +29,7 @@ limitations under the License.
   <scm>
     <developerConnection>scm:git:git@github.com:cmarchand/concurrency-documentation.git</developerConnection>
     <url>https://github.com/cmarchand/concurrency-documentation</url>
-    <tag>V1.00.00</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <developers>
