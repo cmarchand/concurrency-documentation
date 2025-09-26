@@ -182,7 +182,7 @@ limitations under the License.
             <version>0.8.0</version>
             <extensions>true</extensions>
             <configuration>
-              <publishingServerId>xspec-io.ossrh</publishingServerId>
+              <publishingServerId>top.marchand.ossrh</publishingServerId>
               <autoPublish>true</autoPublish>
               <waitUntil>published</waitUntil>
             </configuration>
